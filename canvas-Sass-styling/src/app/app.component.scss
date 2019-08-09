@@ -84,25 +84,24 @@ textarea:focus{
 }
 
 .halfHeight{
-  height: 50vh;
-}
+  height: calc(50hv - 65px);}
 
 .r45Height{
-  height: 45vh;
+  height: calc(45vh - 65px);
 }
 
 .r40Height{
-  height: 40vh;
+  height: calc(40vh - 65px);
 }
 
 .r35Height{
-  height: 35vh;
+  height: calc(35vh - 65px);
 }
 
 .r30Height{
-  height: 30vh;
+  height: calc(30vh - 65px);
 }
 
 .r20Height{
-  height: 20vh;
+  height: calc(20vh - 65px);
 }
